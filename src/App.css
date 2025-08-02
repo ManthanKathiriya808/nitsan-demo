@@ -1,0 +1,15 @@
+.bg-blue{
+  background-color: #f4f7fa;;
+}
+
+.bg{
+      background-image: url(https://t3-shiva.t3planet.com/fileadmin/ns_theme_t3shiva/banner/t3-shiva-home-page-video-element.jpg);
+      height: 500px;
+      padding: 0;
+      opacity: 0.9;
+      margin: 0;
+}
+
+.bg-blacked{
+    background-color: #13151c;
+}
